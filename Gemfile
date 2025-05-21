@@ -27,7 +27,7 @@ gem 'rubocop', '~> 1.62.1', require: false
 
 # Geolocation support
 group :geoip do
-  gem 'maxmind-db', '~> 1.2'
+  gem 'maxmind-db', '~> 1.3'
 end
 
 gem 'parseconfig', '~> 1.1', '>= 1.1.2'
